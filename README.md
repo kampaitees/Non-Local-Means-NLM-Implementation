@@ -1,6 +1,6 @@
 # Non Local Means(NLM) Implementation
  
-(https://github.com/kampaitees/Non-Local-Means-NLM-Implementation/blob/main/Images/1.png)
+[](https://github.com/kampaitees/Non-Local-Means-NLM-Implementation/blob/main/Images/1.png)
 (https://github.com/kampaitees/Non-Local-Means-NLM-Implementation/blob/main/Images/2.png)
 (https://github.com/kampaitees/Non-Local-Means-NLM-Implementation/blob/main/Images/3.png)
 (https://github.com/kampaitees/Non-Local-Means-NLM-Implementation/blob/main/Images/4.png)
