@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src = "https://github.com/kampaitees/Non-Local-Means-NLM-Implementation/blob/main/Images/1.png"/>
+  <img width="300px" height="300px" src = "https://github.com/kampaitees/Non-Local-Means-NLM-Implementation/blob/main/Images/1.png"/>
 </p>
 
 <p align="center">
