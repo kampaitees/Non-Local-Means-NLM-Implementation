@@ -57,7 +57,7 @@
   <img  width="3000px" height="430px" src = "https://github.com/kampaitees/Non-Local-Means-NLM-Implementation/blob/main/Images/18.png"/>
 </p>
 <p align="center">
-  <img  width="3000px" height="330px" src = "https://github.com/kampaitees/Non-Local-Means-NLM-Implementation/blob/main/Images/19.png"/>
+  <img  width="3000px" height="400px" src = "https://github.com/kampaitees/Non-Local-Means-NLM-Implementation/blob/main/Images/19.png"/>
 </p>
 <p align="center">
   <img  width="3000px" height="330px" src = "https://github.com/kampaitees/Non-Local-Means-NLM-Implementation/blob/main/Images/20.png"/>
